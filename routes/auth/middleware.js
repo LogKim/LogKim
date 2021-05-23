@@ -1,3 +1,1 @@
-function checkAuth() {
-  console.log("s");
-}
+function checkAuth() {}
